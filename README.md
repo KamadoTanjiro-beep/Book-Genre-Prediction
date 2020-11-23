@@ -1,4 +1,4 @@
-# New Document# Book-Genre-Prediction-using-Book-Summary
+# Book Genre Prediction using Book Summary
 ### The aim of this project is to apply the principles of text mining on a piece of literary text, and categorize it into the genre into which it best fits.
 
 
