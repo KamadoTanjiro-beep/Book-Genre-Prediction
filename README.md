@@ -1,6 +1,8 @@
 # Book Genre Prediction using Book Summary
 ### The aim of this project is to apply the principles of text mining on a piece of literary text, and categorize it into the genre into which it best fits.
 
+**CHECK THIS -->** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/BookGenrePrediction.ipynb)
+
 
 
 
@@ -9,6 +11,8 @@
  ![Snap of dataset](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/data_readme/dataset_snap.png)
  
  - The highest accuracy was obtained during a 85-15% split while using a svm with rbf as the kernel function. The highest accuracy is 79.55 %
+ 
+ ### Rough insight of the work
  
  ##### Data pre-processing
 
