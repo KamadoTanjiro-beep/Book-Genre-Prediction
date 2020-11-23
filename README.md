@@ -171,8 +171,8 @@
  ![Snap of Final output](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/data_readme/sample_op.png)
    
 Team Members - 
-- [Aniket Patra](https://www.linkedin.com/in/aniket-patra/)
-- [Arnanta Chatterjee](https://www.linkedin.com/in/arnanta-chatterjee-a60684179/)
-- [Sirshendu Ganguly](https://www.linkedin.com/in/sirshendu-ganguly/)
+- [Aniket Patra](https://www.linkedin.com/in/aniket-patra/)  [![Github](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/data_readme/github.png)](https://github.com/aniket-patra)
+- [Arnanta Chatterjee](https://www.linkedin.com/in/arnanta-chatterjee-a60684179/)  [![Github](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/data_readme/github.png)](https://github.com/arnanta)
+- [Sirshendu Ganguly](https://www.linkedin.com/in/sirshendu-ganguly/)  [![Github](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/data_readme/github.png)](https://github.com/Sirsho1997)
 
 
