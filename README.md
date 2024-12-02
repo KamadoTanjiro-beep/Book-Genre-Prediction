@@ -131,8 +131,8 @@ IPython Notebook has been used for this project.
  ![Snap of Final output](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/image/sample_op.png)
    
 Team Members - 
+- Aniket Patra [Github](https://github.com/KamadoTanjiro-beep/)
 - [Sirshendu Ganguly](https://www.linkedin.com/in/sirshendu-ganguly/)  [![Github](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/image/github.png)](https://github.com/Sirsho1997)
-- [Aniket Patra](https://www.linkedin.com/in/aniket-patra/)  [![Github](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/image/github.png)](https://github.com/aniket-patra)
 - [Arnanta Chatterjee](https://www.linkedin.com/in/arnanta-chatterjee-a60684179/)  [![Github](https://github.com/Sirsho1997/Book-Genre-Prediction-using-Book-Summary/blob/master/image/github.png)](https://github.com/arnanta)
 
 
